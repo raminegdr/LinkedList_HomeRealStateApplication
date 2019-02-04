@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549184588 source:c:\users\ramineh\desktop\home real state\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1549184588 source:e:\javaeclipse\home real state\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
